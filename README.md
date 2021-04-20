@@ -14,7 +14,9 @@
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/gabrielroodriz/)
+[<img align="left" alt="gabrielroodriz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="gabrielroodriz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="gabrielroodriz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -55,3 +57,4 @@
 [instagram]: https://www.instagram.com/gabrielroodriz/
 [linkedin]: https://linkedin.com/in/gabrielroodriz
 [portfolio]: https://gabrielroodriz.github.io/profile/
+[twitter]: https://twitter.com/gabrielroodriz
