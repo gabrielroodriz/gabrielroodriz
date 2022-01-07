@@ -51,6 +51,8 @@
   <summary>:zap: Most Used Languages</summary>
 
 <img align="left" alt="Gabriel GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielroodriz" />
+ 
+ [![gabriel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielroodriz)](https://github.com/gabrielroodriz/github-readme-stats)
 
 </details>
 
