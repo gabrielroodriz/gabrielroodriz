@@ -42,7 +42,9 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Gabriel GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabrielroodriz&show_icons=true&hide_border=true" />
+
+ 
+ ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielroodriz&show_icons=true)
  
 
 </details>
@@ -52,7 +54,7 @@
 
 <img align="left" alt="Gabriel GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielroodriz" />
  
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielroodriz&show_icons=true)
+
 
 </details>
 
