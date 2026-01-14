@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Gabriel Rodrigues
 
-**Senior Full-Stack Engineer** | **Tech Lead** @ [levva](https://levva.com.br)  
+**Senior Full-Stack Engineer** | **Tech Lead** @ [levva](https://levva.io/)  
 Especializado em **React Native**, **TypeScript** e **Node.js**
 
 Construo aplicações mobile e web robustas para agro, fintech e varejo.  
@@ -10,7 +10,7 @@ Construo aplicações mobile e web robustas para agro, fintech e varejo.
 
 ## 🚀 Sobre mim
 
-- 🏢 Atualmente: **Tech Lead** @ [levva](https://levva.com.br) (2023 - presente)
+- 🏢 Atualmente: **Tech Lead** @ [levva](https://levva.io) (2023 - presente)
 - 📱 Especialidades: **React Native** (mobile) • **React.js/Next.js** (web) • **Node.js** (backend)
 - 🗺️ Expertise em: Geolocalização, offline capabilities, arquitetura escalável
 - 🎤 Palestrante: **DevFest (GDG Campinas)**, meetups de tecnologia
