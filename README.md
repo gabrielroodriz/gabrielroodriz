@@ -1,64 +1,98 @@
-### Hello World, I'm Gabriel  👋
+# 👋 Olá, eu sou Gabriel Rodrigues
 
- <img align="right" alt="GIF" src="https://github.com/gabrielroodriz/gabrielroodriz/blob/main/code.svg?raw=true" width="500" height="320" />
+**Senior Full-Stack Engineer** | **Tech Lead** @ [levva](https://levva.com.br)  
+Especializado em **React Native**, **TypeScript** e **Node.js**
 
+Construo aplicações mobile e web robustas para agro, fintech e varejo.  
+6+ anos de experiência liderando times, arquitetura técnica e stakeholder management.
 
-## I'm a Code writer and storyteller!!
-- ✍ You can find my projects here [portfolio](https://github.com/gabrielroodriz?tab=repositories)
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning Flutter and Azure
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Soft Skills
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact:I want to own a coffee shop ☕
+---
 
+## 🚀 Sobre mim
 
-### Talk with me, I am kinda awesome:
-[<img align="left" alt="gabrielroodriz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="gabrielroodriz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="gabrielroodriz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+- 🏢 Atualmente: **Tech Lead** @ [levva](https://levva.com.br) (2023 - presente)
+- 📱 Especialidades: **React Native** (mobile) • **React.js/Next.js** (web) • **Node.js** (backend)
+- 🗺️ Expertise em: Geolocalização, offline capabilities, arquitetura escalável
+- 🎤 Palestrante: **DevFest (GDG Campinas)**, meetups de tecnologia
+- 👥 Liderança: Tech Lead de times 2-5 engenheiros, All-Hands presentations (200+ pessoas)
+- 🌱 Aprendendo: AI-assisted development, Flutter (expandindo stack)
+- 📍 Localização: Campinas, SP - Brasil
 
-<br />
+---
 
-### Languages and Tools:
+## 🛠️ Stack Técnica
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-<br />
-<br />
+### Web & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### DevOps & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+---
+
+## 💼 Experiência Profissional
+
+### 🎯 Tech Lead @ levva (2023 - Presente)
+- 📱 Plataforma mobile (React Native/TypeScript) para análise de campo agrícola
+- 🌍 200+ usuários ativos no Brasil e Argentina
+- 🗺️ Geolocalização + análise de dados de satélite (NDVI)
+- 👥 Liderança técnica: arquitetura, code review, stakeholder management
+- 📈 Implementando estratégia de qualidade: 40% → 70% test coverage
+
+### 💡 Foco Atual
+- Arquitetura offline-first para áreas remotas
+- Cross-functional collaboration (Product, Agro experts)
+- Technical presentations (All-Hands com 200+ pessoas)
+- Engineering excellence: testes, CI/CD, documentação
+
+---
+
+## 📊 GitHub Stats
+
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielroodriz&show_icons=true&theme=dark&count_private=true)
+
+---
+
+## 🎤 Comunicação & Community
+
+- 🎙️ Palestrante no **DevFest 2025** (GDG Campinas): "Comunicação na vida de um desenvolvedor"
+- 📝 Apresento **All-Hands meetings** com 200+ pessoas na levva
+- 🤝 Ativo em meetups de tecnologia e comunidades React Native/Flutter
+- 💬 Acredito que código excelente precisa ser bem comunicado
+
+---
+
+## 🔗 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielroodriz)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gabrielroodriz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://linktr.ee/gabrielroodriz)
+
+---
+
+💼 **Aberto para oportunidades Full-Stack e Mobile** (React Native/Flutter) em regime **remoto** ou **híbrido**.  
+📩 Entre em contato via [LinkedIn](https://linkedin.com/in/gabrielroodriz)
+
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+<summary>🎯 Fun facts (clique para expandir)</summary>
 
- 
- ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielroodriz&show_icons=true)
- 
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielroodriz&layout=compact)](https://github.com/gabrielroodriz/github-readme-stats)
- 
-
+- ☕ Sonho em ter uma cafeteria um dia
+- 📚 Trabalhando em um livro sobre desenvolvimento de carreira
+- 🎮 Gamer nas horas vagas
+- 😄 Pronouns: He/Him
 
 </details>
-
-[instagram]: https://www.instagram.com/gabrielroodriz/
-[linkedin]: https://linkedin.com/in/gabrielroodriz
-[portfolio]: https://gabrielroodriz.github.io/profile/
-[twitter]: https://twitter.com/gabrielroodriz
