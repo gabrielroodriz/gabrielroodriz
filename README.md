@@ -58,10 +58,23 @@ Construo aplicações mobile e web robustas para agro, fintech e varejo.
 - Engineering excellence: testes, CI/CD, documentação
 
 ---
-
 ## 📊 GitHub Stats
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielroodriz&show_icons=true&theme=dark&count_private=true)
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gabrielroodriz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielroodriz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  
+</div>
+
+<div align="center">
+  
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielroodriz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+</div>
+
+
 
 ---
 
@@ -96,3 +109,9 @@ Construo aplicações mobile e web robustas para agro, fintech e varejo.
 - 😄 Pronouns: He/Him
 
 </details>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gabrielroodriz&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
