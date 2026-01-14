@@ -10,7 +10,7 @@ Construo aplicações mobile e web robustas para agro, fintech e varejo.
 
 ## 🚀 Sobre mim
 
-- 🏢 Atualmente: **Tech Lead** @ [levva](https://levva.io) (2023 - presente)
+- 🏢 Atualmente: **Senior Full-Stack Engineer** @ [levva](https://levva.io) (2023 - presente)
 - 📱 Especialidades: **React Native** (mobile) • **React.js/Next.js** (web) • **Node.js** (backend)
 - 🗺️ Expertise em: Geolocalização, offline capabilities, arquitetura escalável
 - 🎤 Palestrante: **DevFest (GDG Campinas)**, meetups de tecnologia
